@@ -1,7 +1,7 @@
 # Matchboxscope (Older simpler version)
 
 :::warning
-***UPDATE*** Even though the classic Matchboxscope is still working, we recommend you to have a loot at the updated and more comprehensive documentation under [Matchboxscope Injection Molded Version](../Matchboxscope_IM.md). Thanks!
+***UPDATE*** Even though the classic Matchboxscope is still working, we recommend you to have a look at the updated and more comprehensive documentation under [Matchboxscope Injection Molded Version](./ESPressoScope.md). Thanks!
 :::
 
 :::warning
